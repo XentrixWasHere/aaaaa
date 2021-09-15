@@ -10,3 +10,5 @@ https://roxane.benokastudio.com/glype
 http://proxy.web.id/index.php
 
 https://www.google.com
+
+https://www.reddit.com/r/todoist/comments/78fzjs/code_swap_thread/
