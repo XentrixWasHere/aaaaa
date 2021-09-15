@@ -6,3 +6,5 @@ https://www.reddit.com/r/CringingTime/wiki/config/automoderator
 https://twtext.com/article/1247057382049488896#
 
 https://roxane.benokastudio.com/glype
+
+http://proxy.web.id/index.php
