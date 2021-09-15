@@ -8,3 +8,5 @@ https://twtext.com/article/1247057382049488896#
 https://roxane.benokastudio.com/glype
 
 http://proxy.web.id/index.php
+
+https://www.google.com
